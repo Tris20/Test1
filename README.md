@@ -1,4 +1,9 @@
-Test1
-=====
+#Testing text
 
-First file
+##Simple test text file
+
+###Purpose:
+
+*Familiarise with layout
+*Test text
+*Test for windows
